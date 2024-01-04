@@ -1,1 +1,3 @@
 # Brain_tumor-detection
+Brain tumor detection is crucial for early diagnosis and treatment of brain-related diseases. Image processing techniques, including preprocessing, segmentation, feature extraction, and classification, along with machine learning and deep learning algorithms, can enhance early diagnosis and treatment planning. Integrating computer-aided diagnosis systems into clinical workflows can improve efficiency and reliability, leading to improved patient outcomes.
+![image](https://github.com/Youmnatarek1/Brain_tumor-detection/assets/122053730/64624a70-7024-4fab-b776-9c458125740b)
